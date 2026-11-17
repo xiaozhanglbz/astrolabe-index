@@ -1,0 +1,28 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "astrolabe-index"
+version = "0.1.0"
+description = "Hierarchical, read-only index that lets an AI agent navigate a large folder of notes without loading all of it."
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "MIT" }
+authors = [{ name = "Nobody" }]
+keywords = ["ai-agents", "llm", "context", "index", "knowledge-base", "claude-skills"]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Topic :: Text Processing :: Indexing",
+]
+
+[project.scripts]
+astrolabe = "astrolabe.cli:main"
+
+[project.urls]
+Homepage = "https://github.com/your-org/astrolabe-index"
+
+[tool.setuptools]
+packages = ["astrolabe"]

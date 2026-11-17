@@ -19,7 +19,7 @@ python3 -m astrolabe --version     # 不安装也能直接跑
 pip install -e .                   # 可选：装上后多一个 astrolabe 命令
 ```
 
-需要 Python 3.9 或更高。
+需要 Python 3.10 或更高。
 
 ## 使用
 

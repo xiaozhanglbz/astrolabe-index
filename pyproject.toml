@@ -7,7 +7,7 @@ name = "astrolabe-index"
 version = "0.1.0"
 description = "Hierarchical, read-only index that lets an AI agent navigate a large folder of notes without loading all of it."
 readme = "README.md"
-requires-python = ">=3.9"
+requires-python = ">=3.10"
 license = { text = "MIT" }
 authors = [{ name = "Nobody" }]
 keywords = ["ai-agents", "llm", "context", "index", "knowledge-base", "claude-skills"]

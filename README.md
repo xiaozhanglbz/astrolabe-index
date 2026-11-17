@@ -19,7 +19,7 @@ python3 -m astrolabe --version     # runs without installing
 pip install -e .                   # optional: adds the `astrolabe` command
 ```
 
-Requires Python 3.9 or newer.
+Requires Python 3.10 or newer.
 
 ## Use
 

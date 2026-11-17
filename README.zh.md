@@ -12,7 +12,7 @@
 ## 安装
 
 ```bash
-git clone <本仓库地址>
+git clone https://github.com/xiaozhanglbz/astrolabe-index
 cd astrolabe-index
 
 python3 -m astrolabe --version     # 不安装也能直接跑

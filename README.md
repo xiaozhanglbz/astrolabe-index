@@ -12,7 +12,7 @@ standard library only.
 ## Install
 
 ```bash
-git clone <this-repo-url>
+git clone https://github.com/xiaozhanglbz/astrolabe-index
 cd astrolabe-index
 
 python3 -m astrolabe --version     # runs without installing

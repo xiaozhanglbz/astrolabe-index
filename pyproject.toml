@@ -22,7 +22,7 @@ classifiers = [
 astrolabe = "astrolabe.cli:main"
 
 [project.urls]
-Homepage = "https://github.com/your-org/astrolabe-index"
+Homepage = "https://github.com/xiaozhanglbz/astrolabe-index"
 
 [tool.setuptools]
 packages = ["astrolabe"]
